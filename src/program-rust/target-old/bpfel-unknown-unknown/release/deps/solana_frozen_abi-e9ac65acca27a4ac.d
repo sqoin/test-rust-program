@@ -1,0 +1,10 @@
+/home/jawaher/example-helloworld/src/program-rust/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-e9ac65acca27a4ac.rmeta: /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs
+
+/home/jawaher/example-helloworld/src/program-rust/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-e9ac65acca27a4ac.rlib: /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs
+
+/home/jawaher/example-helloworld/src/program-rust/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-e9ac65acca27a4ac.d: /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs /home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs
+
+/home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/lib.rs:
+/home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_digester.rs:
+/home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/abi_example.rs:
+/home/jawaher/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.9/src/hash.rs:
